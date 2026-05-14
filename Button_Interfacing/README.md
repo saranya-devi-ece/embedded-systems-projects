@@ -39,7 +39,7 @@ Negative and Positive Logic on Arduino UNO.
 ---
 
 ## 🖥️ Simulation
-[https://wokwi.com/projects/463975902226529281]
+🔗 [View on Wokwi][https://wokwi.com/projects/463975902226529281]
 
 ## 📚 Concepts Used
 - INPUT_PULLUP (Negative Logic)
